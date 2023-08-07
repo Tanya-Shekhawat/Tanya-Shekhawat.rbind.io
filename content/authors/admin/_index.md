@@ -1,29 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My interests include predictive modeling, machine learning, spatial statistics, and data visualization.
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+  - course: Bachelor of Technology in Computer Science with specialization in AI-ML
+    institution: Sage University
+    year: 2025
+email: "9tanya18@gmail.com"
+first_name: Tanya
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Predictive Modeling
+- Data Visualization
+- Machine Learning
+last_name: Shekhawat
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: 
+  url: 
+role: Aspiring Data Scientist & AI Engineer
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,8 +44,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Tanya Shekhawat
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tanya Shekhawat is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}

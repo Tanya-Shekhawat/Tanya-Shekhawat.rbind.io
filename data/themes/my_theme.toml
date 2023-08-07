@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Custom Theme"
+
+[light]
+  # Primary
+  primary = "#712bd6" # purple #"#9442ff" #change from green to purple"#06805E"
+
+  # Links
+  link = "#3273dc"
+  link_hover = "rgb(54, 54, 54)"
+
+  # Menu
+  menu_primary = "#fcfcfc33" #"#F0F7FA"
+  menu_text = "#172A3A"
+  menu_text_active = "#712bd6" #"#06805E"
+  menu_title = "#172A3A"
+
+  # Home sections
+  background = "#fcfcfc" #"#F0F7FA"
+  home_section_odd = "#fcfcfc" #"#F0F7FA"
+  home_section_even =  "#fcfcfc33" #"#F0F7FA"
+
+#"#712bd6" purple
