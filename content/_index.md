@@ -1,6 +1,13 @@
 ---
 date: "2022-10-24"
 sections:
+
+- block: markdown
+  content:
+    title: 
+    subtitle: 
+    text: <div class="gif" > <img class"gif" src="/static/img/hello.gif"> </div>
+
 - block: about.biography
   content:
     title: Biography
@@ -39,6 +46,14 @@ sections:
           * Deploying
       location: California
       title: CEO
+    - company: University X
+      company_logo: org-x
+      company_url: ""
+      date_end: "2020-12-31"
+      date_start: "2016-01-01"
+      description: Taught electronic engineering and researched semiconductor physics.
+      location: California
+      title: Professor of Semiconductor Physics
     - company: University X
       company_logo: org-x
       company_url: ""
