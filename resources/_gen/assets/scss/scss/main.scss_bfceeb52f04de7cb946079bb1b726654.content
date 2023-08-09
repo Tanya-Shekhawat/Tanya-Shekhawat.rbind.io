@@ -9680,7 +9680,7 @@ body {
   min-height: 100px !important;
   min-width: 100%;
   position: fixed;
-  font-family: coming soon,sans-serif; }
+  font-family: 'Coming Soon'; }
 
 .navbar {
   background-color: #fcfcfc33;
@@ -10044,11 +10044,10 @@ iframe {
   margin-top: 30px; }
 
 .navbar-light .navbar-brand {
-  color: #172a3a !important;
-  font-family: "Coming Soon" !important; }
+  color: #172a3a !important; }
 
 @font-face {
   font-family: 'Coming Soon';
   font-style: normal;
   font-weight: 400;
-  src: local("ComingSoon-Regular"), url("/scss/Coming_Soon/ComingSoon-Regular.ttf") format("truetype"); }
+  src: local("ComingSoon-Regular"), url("/scss/Coming_Soon/ComingSoon-Regular.ttf") format("truetype") !important; }
