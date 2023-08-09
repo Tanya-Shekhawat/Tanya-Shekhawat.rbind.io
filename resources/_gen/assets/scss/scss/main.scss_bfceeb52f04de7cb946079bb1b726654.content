@@ -6,6 +6,10 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7211,7 +7215,7 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy's Core Style
  **************************************************/
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "<no value>", sans-serif;
   font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
@@ -7293,7 +7297,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Roboto", sans-serif;
+  font-family: "Coming Soon", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizelegibility; }
@@ -7305,7 +7309,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "<no value>", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -7360,7 +7364,7 @@ a:focus {
 
 pre,
 code {
-  font-family: "Roboto Mono", monospace; }
+  font-family: "<no value>", monospace; }
 
 pre {
   margin: 0 0 1rem;
@@ -9089,7 +9093,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "Montserrat", sans-serif;
+  font-family: "<no value>", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
@@ -9675,7 +9679,8 @@ body {
 .navbar {
   min-height: 100px !important;
   min-width: 100%;
-  position: fixed; }
+  position: fixed;
+  font-family: coming soon,sans-serif; }
 
 .navbar {
   background-color: #fcfcfc33;
@@ -9686,7 +9691,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   letter-spacing: 0.04em;
-  color: #172A3A; }
+  color: #172A3A;
+  font-family: raleway, sans-serif; }
 
 /* links */
 a:active,
@@ -9707,7 +9713,8 @@ a:hover {
 .navbar-brand {
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: .1em; }
+  letter-spacing: .1em;
+  color: #172a3a; }
 
 /*----NAV LINK HOVER ANIMATION -----*/
 /* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
@@ -10029,9 +10036,13 @@ iframe {
 .gif img {
   background-color: #fff;
   width: 100%;
-  margin-top: 130px;
-  margin-bottom: -60px;
+  margin-top: 140px;
+  margin-bottom: 60px;
   box-shadow: #D52D00 0px 0px 0px 2px inset, white 10px -10px 0px -3px, #D52D00 10px -10px, white 20px -20px 0px -3px, #EF7627 20px -20px, white 30px -30px 0px -3px, #FF9A56 30px -30px, white 40px -40px 0px -3px, #F4F4F4 40px -40px, white 50px -50px 0px -3px, #D162A4 50px -50px, white 60px -60px 0px -3px, #B55690 60px -60px, white 70px -70px 0px -3px, #A30262 70px -70px; }
 
 #about {
   margin-top: 30px; }
+
+.navbar-light .navbar-brand {
+  color: #172a3a !important;
+  font-family: 'Coming Soon', cursive; }
