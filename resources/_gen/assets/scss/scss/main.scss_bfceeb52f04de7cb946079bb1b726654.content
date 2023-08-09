@@ -10051,4 +10051,4 @@ iframe {
   font-family: 'Coming Soon';
   font-style: normal;
   font-weight: 400;
-  src: local("Coming Soon Regular"), local("ComingSoon-Regular"), url("/scss/Coming_Soon/ComingSoon-Regular.ttf") format("truetype"); }
+  src: local("ComingSoon-Regular"), url("/scss/Coming_Soon/ComingSoon-Regular.ttf") format("truetype"); }
