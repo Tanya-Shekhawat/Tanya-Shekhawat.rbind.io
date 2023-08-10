@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Tanya Shekhawat
 type: landing
 
 sections:
