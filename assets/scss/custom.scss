@@ -6,11 +6,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 
 body {
-  margin-top: 0px !important;
+  margin-top: 60px !important;
   color: #172A3A;
 }
 
 .navbar {
+  margin-top: -50px !important;
   min-height: 100px !important;
   min-width: 100%;
   position: fixed;
@@ -533,5 +534,30 @@ iframe {
 }
 
 #projects {
-  margin-top: 60px;
+  margin-top: 60px !important;
 }
+
+.pineapple-banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+.pineapple-image {
+    width: 100%;
+    height: auto;
+}
+.download-link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+

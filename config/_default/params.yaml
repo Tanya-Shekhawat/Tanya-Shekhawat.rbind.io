@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: my_theme
-  theme_night: my_theme
+  #theme_night: my_theme
   #day_night: false
   font: my_font_set
   font_size: L
@@ -39,7 +39,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: false
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer

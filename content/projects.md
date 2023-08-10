@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Projects
 type: landing
 
 sections:
