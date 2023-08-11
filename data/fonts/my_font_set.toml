@@ -1,6 +1,12 @@
 name = "Tanya"
 
 
-google_fonts = "family=Abril+Fatface|Cutive+Mono|Lora:400,400i|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Coming+Soon:400"
+google_fonts = "family=Coming+Soon&family=Cutive+Mono&family=Josefin+Slab&family=Lora:ital@0;1&family=Raleway:wght@300;400;500;600&display=swap"
 
+#nav_font = "Coming Soon"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Raleway"
 nav_font = "Coming Soon"
+mono_font = "Cutive Mono"
