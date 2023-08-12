@@ -109,7 +109,7 @@ a:hover {
 }
 
 .home-section:first-of-type {
-  padding: 50px 0 50px 0;
+  padding: 100px 0 50px 0;
 }
 
 .home-section:not(:first-of-type) {
@@ -475,7 +475,7 @@ iframe {
 }
 
 #about .portrait-title h3 {
-  font-family: "Josefin Slab";
+  font-family: Josefin Slab;
   margin-top: 10px;
 }
 
@@ -493,7 +493,7 @@ iframe {
 .gif img{
   background-color: #fff;
 	width: 100%;
-	margin-top: 121px;
+	margin-top: 65px;
   margin-bottom: 60px;
   box-shadow:
   #D52D00 0px 0px 0px 2px inset,
@@ -534,7 +534,7 @@ iframe {
 }
 
 #projects {
-  margin-top: 60px !important;
+  
 }
 
 .pineapple-banner {
@@ -559,5 +559,23 @@ iframe {
     font-weight: bold;
     border-radius: 5px;
 }
+
+.ul-interests {
+  font-family: "raleway";
+  margin-left: 45px;
+}
+
+#about .portrait-title h3{
+  font-family: "Josefin";
+}
+
+a,
+h3.article-title a:hover{
+  color: #712bd6;
+}
+
+#contact .home-section{
+  margin-top: 50px;
+}  
 
 

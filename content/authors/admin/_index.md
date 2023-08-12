@@ -23,10 +23,10 @@ social:
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Tanya-Shekhawat
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tanya-shekhawat/
 
 status:
   icon: ☕️

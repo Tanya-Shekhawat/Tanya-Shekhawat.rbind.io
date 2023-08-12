@@ -7215,7 +7215,7 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy's Core Style
  **************************************************/
 html {
-  font-family: "<no value>", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
@@ -7309,7 +7309,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "<no value>", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -7364,7 +7364,7 @@ a:focus {
 
 pre,
 code {
-  font-family: "<no value>", monospace; }
+  font-family: "Cutive Mono", monospace; }
 
 pre {
   margin: 0 0 1rem;
@@ -9093,7 +9093,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "<no value>", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
@@ -9755,7 +9755,7 @@ a:hover {
   transform: scale(1.05); }
 
 .home-section:first-of-type {
-  padding: 50px 0 50px 0; }
+  padding: 100px 0 50px 0; }
 
 .home-section:not(:first-of-type) {
   padding: 25px 0 50px 0; }
@@ -10023,7 +10023,7 @@ iframe {
   margin-bottom: 30px; }
 
 #about .portrait-title h3 {
-  font-family: "Josefin Slab";
+  font-family: Josefin Slab;
   margin-top: 10px; }
 
 #about .col-12.col-lg-8 {
@@ -10037,7 +10037,7 @@ iframe {
 .gif img {
   background-color: #fff;
   width: 100%;
-  margin-top: 121px;
+  margin-top: 65px;
   margin-bottom: 60px;
   box-shadow: #D52D00 0px 0px 0px 2px inset, white 10px -10px 0px -3px, #D52D00 10px -10px, white 20px -20px 0px -3px, #EF7627 20px -20px, white 30px -30px 0px -3px, #FF9A56 30px -30px, white 40px -40px 0px -3px, #F4F4F4 40px -40px, white 50px -50px 0px -3px, #D162A4 50px -50px, white 60px -60px 0px -3px, #B55690 60px -60px, white 70px -70px 0px -3px, #A30262 70px -70px; }
 
@@ -10052,9 +10052,6 @@ iframe {
   font-style: normal;
   font-weight: 400;
   src: local("ComingSoon-Regular"), url("/scss/Coming_Soon/ComingSoon-Regular.ttf") format("truetype") !important; }
-
-#projects {
-  margin-top: 60px !important; }
 
 .pineapple-banner {
   position: relative;
@@ -10077,3 +10074,17 @@ iframe {
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px; }
+
+.ul-interests {
+  font-family: "raleway";
+  margin-left: 45px; }
+
+#about .portrait-title h3 {
+  font-family: "Josefin"; }
+
+a,
+h3.article-title a:hover {
+  color: #712bd6; }
+
+#contact .home-section {
+  margin-top: 50px; }
