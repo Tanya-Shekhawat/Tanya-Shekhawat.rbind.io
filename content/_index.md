@@ -10,7 +10,7 @@ sections:
 
 - block: about.biography
   content:
-    title: Biography
+    title: Exploring AI Horizons 🚀
     username: admin
   id: about
 
@@ -54,30 +54,30 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: https://learn.365datascience.com/certificates/CC-3141FF9976/
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2022-11-09" 
       description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
+      organization: 365 Data Science
+      organization_url: https://365datascience.com/
+      title: Introduction to Python
+      url: "https://learn.365datascience.com/certificates/CC-3141FF9976/"
+    - certificate_url: https://drive.google.com/file/d/19w-ISHomL0n_eyOLYqLS38247y9qDMIc/view
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
+      date_start: "2022-11-12"
+      description:
+      organization: Scaler
+      organization_url: https://www.scaler.com/
+      title: Data Science Bootcamp
+      url: https://drive.google.com/file/d/19w-ISHomL0n_eyOLYqLS38247y9qDMIc/view
+    - certificate_url: https://drive.google.com/file/d/1ohIJNn3XFM3H4D-NEDd8RutoBAAqCMgl/view?usp=sharing 
+      date_end: ""
+      date_start: "2023-06-15"
       description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
+      organization: SAGE University 
+      organization_url: https://sageuniversity.edu.in/
+      title: A New Age of AI Features and Futures
+      url: "https://drive.google.com/file/d/1ohIJNn3XFM3H4D-NEDd8RutoBAAqCMgl/view?usp=sharing"
     subtitle: null
     title: Certificates 
   design:

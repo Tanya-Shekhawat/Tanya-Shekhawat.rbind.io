@@ -3,7 +3,7 @@ bio: My interests include predictive modeling, machine learning, spatial statist
   matter.
 education:
   courses:
-  - course: Bachelor of Technology in Computer Science with specialization in AI-ML
+  - course: Bachelor of Technology in Computer Science with specialization in AI
     institution: Sage University
     year: 2025
 email: "9tanya18@gmail.com"
@@ -34,5 +34,5 @@ superuser: true
 title: Tanya Shekhawat
 ---
 
-Tanya Shekhawat is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey there! 👋 I'm Tanya Shekhawat, a passionate and curious student currently embarking on a thrilling journey towards a B.Tech CSE Honours in Artificial Intelligence. With my pre-final year underway, I'm diving headfirst into the realm of data science, ready to unravel the mysteries hidden within vast datasets.
 {style="text-align: justify;"}

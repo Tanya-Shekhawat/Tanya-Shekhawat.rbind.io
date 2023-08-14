@@ -7,7 +7,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <div> <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="your-download-link" class="download-link">Download</a> </div>
+      text: <div> <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="/static/files/Tanya_Shekhawat_Resume.pdf" target="_blank" class="btn btn-success px-3 py-2" id= "cva">One Page CV</a> <a href="your-download-link" target="_blank" class="btn btn-warning px-3 py-2" id = "cvb" >Full CV</a> </div>
   - block: experience
     id: resume
     content:
@@ -21,12 +21,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Science Intern
+          company: PWSkills
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-pw
+          location: 
+          date_start: '2023-08-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -34,13 +34,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Science Intern
+          company: Hamoye
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: org-hm
+          location: 
+          date_start: '2023-01-01'
+          date_end: '2020-05-14'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
