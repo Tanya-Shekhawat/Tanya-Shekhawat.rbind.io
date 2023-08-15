@@ -7,7 +7,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <div> <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="/static/files/Tanya_Shekhawat_Resume.pdf" target="_blank" class="btn btn-success px-3 py-2" id= "cva">One Page CV</a> <a href="your-download-link" target="_blank" class="btn btn-warning px-3 py-2" id = "cvb" >Full CV</a> </div>
+      text: <div> <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="/static/files/Tanya_Shekhawat_CV.pdf" target="_blank" class="btn btn-success px-3 py-2" id= "cva">One Page CV</a> <a href="/static/files/Tanya_Shekhawat_Resume_Full.pdf" target="_blank" class="btn btn-warning px-3 py-2" id = "cvb" >Full CV</a> </div>
   - block: experience
     id: resume
     content:
@@ -29,11 +29,12 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Skills include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * DeepLearning
+              * Computer Vision
+              * LLM
+              * Python
         - title: Data Science Intern
           company: Hamoye
           company_url: ''
@@ -41,7 +42,13 @@ sections:
           location: 
           date_start: '2023-01-01'
           date_end: '2020-05-14'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Skills include:
+
+              * Machine Learning
+              * XGBoost 
+              * Microsoft Azure
+              * Python
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
