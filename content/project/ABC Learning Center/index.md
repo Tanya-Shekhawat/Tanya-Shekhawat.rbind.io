@@ -13,12 +13,13 @@ links:
   icon_pack:
   name: Demo
   url: https://bit.ly/abc-learning-centre
-summary: Interactive website to promote ABC Institute and its courses online.
+summary: By embracing digitalization, ABC Learning Center aims to eliminate manual errors, reduce administrative overhead, and create a more inclusive learning environment.
 tags:
-  - html
-  - javascript
-  - css
-title: ABC Learning Center
+  - Web Development
+  - Html
+  - Javascript
+  - CSS
+title: Empowering Students Worldwide ABC Learning Center's Global Learning Platform
 url_code: ""
 url_pdf: ""
 url_slides: ""

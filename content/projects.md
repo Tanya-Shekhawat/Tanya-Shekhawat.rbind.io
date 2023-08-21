@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: projects 
     content:
       title: Projects
       subtitle: 
@@ -35,14 +35,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Python
-          tag: Demo
+          tag: Python
         - name: Java
           tag: Java
+        - name: Web Development
+          tag: Web Development
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

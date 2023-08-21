@@ -9695,12 +9695,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #172A3A;
   font-family: raleway, sans-serif; }
 
-.article-container {
-  text-align: justify; }
-
-article {
-  text-align: inherit; }
-
 /* links */
 a:active,
 a:focus,
