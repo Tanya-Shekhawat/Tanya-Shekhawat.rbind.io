@@ -31,10 +31,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #172A3A; //color for headings 'projects; ;interests'
   font-family: raleway, sans-serif;
 }
-article{
-  margin-top: 50px;
+.article-container{
+  text-align: justify;
 }
-
+article{
+  text-align: inherit;
+}
 /* links */
 
 a:active,
@@ -133,6 +135,10 @@ a:hover {
   letter-spacing: .08em;
 }
 
+.home-section-bg{
+  margin-top: -40px !important;
+  position: inherit;
+}
 
 /* code */
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
@@ -294,37 +300,6 @@ iframe {
 	border: 0;
 }
 
-/* HELLO image */
-
-// .parallax {
-//   background-position: center center;
-//   padding-top: 100vh !important;
-//   background-attachment: scroll !important; /*override 'fixed' for iOS problem */
-// }
-//
-// .parallax:after {
-//   content:"";
-//   position: fixed; /* stretch a fixed position to the whole screen */
-//   top:0;
-//   height:100vh; /* fix for mobile browser address bar appearing disappearing */
-//   left:0;
-//   right:0;
-//   z-index:-1; /* needed to keep in the background */
-//   background: url(/img/hello.jpg) center center;
-//   -webkit-background-size: contain;
-//   -moz-background-size: contain;
-//   -o-background-size: contain;
-//   background-size: contain;
-//   background-repeat: no-repeat;
-// }
-
-// @media screen and (max-width: 768px) {
-//   .home-section.bg-image {
-//     background-position-x: 39%;
-//     background-size: 200%;
-//     padding: 330px 0 275px 0;
-//   }
-// }
 
 /* pagination buttons */
 
@@ -585,7 +560,9 @@ h3.article-title a:hover{
 }
 
 
-
+.page-body {
+  margin-top: 60px !important;
+}
 
 
 

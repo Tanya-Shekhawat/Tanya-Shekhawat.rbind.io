@@ -1,6 +1,5 @@
 ---
-bio: My interests include predictive modeling, machine learning, spatial statistics, and data visualization.
-  matter.
+bio: My interests include predictive modeling, machine learning, statistics, and data visualization.
 education:
   courses:
   - course: Bachelor of Technology in Computer Science with specialization in AI

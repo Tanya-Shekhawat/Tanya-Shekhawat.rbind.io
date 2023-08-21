@@ -41,7 +41,7 @@ sections:
           company_logo: org-hm
           location: 
           date_start: '2023-01-01'
-          date_end: '2020-05-14'
+          date_end: '2023-05-14'
           description: |2-
               Skills include:
 
