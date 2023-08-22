@@ -8,7 +8,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/Sammybams/HamoyeAI-Team-Theano-Capstone-Project
+  url: https://github.com/Tanya-Shekhawat/Crime-Analytics-and-Forecasting
 - icon:
   icon_pack:
   name: Demo
