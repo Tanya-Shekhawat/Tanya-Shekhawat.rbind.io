@@ -28,7 +28,7 @@ categories:
   - capstone project
   - group project
 share: false
-show_date: true
+show_date: false
 ---
 
 
@@ -37,7 +37,7 @@ show_date: true
 By harnessing the power of data analysis and predictive algorithms, these cutting-edge technologies offer the potential to enhance crime analytics, inform pre-emptive decisions, and pave the way for a safer future across the continent.
 
 </p>
-<img src="word-cloud.png"></img>
+<img src="word-cloud.jpg" width="40%"></img>
 
 <p>In an attempt to devise a comprehensive solution along with my team, a problem statement was developed while also taking into consideration the dataset we decided to work with.</p>
 

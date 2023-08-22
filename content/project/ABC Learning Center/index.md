@@ -27,6 +27,7 @@ url_video: ""
 categories:
   - passion project
 share: false
+show_date: false
 ---
 
 
