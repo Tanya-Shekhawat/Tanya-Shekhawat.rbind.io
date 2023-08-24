@@ -2,7 +2,7 @@
 bio: My interests include predictive modeling, machine learning, statistics, and data visualization.
 education:
   courses:
-  - course: Bachelor of Technology in Computer Science with specialization in AI
+  - course: Bachelor of Technology Honors in Computer Science with specialization in AI
     institution: Sage University
     year: 2025
 email: "9tanya18@gmail.com"
