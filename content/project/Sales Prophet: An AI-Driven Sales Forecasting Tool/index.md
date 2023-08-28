@@ -1,6 +1,6 @@
 ---
-date: "2023-04-15"
-external_link: ""
+date: "2023-02-28"
+external_link: "https://tanya-shekhawat.hashnode.dev/sales-prophet-an-ai-driven-sales-forecasting-tool"
 image:
   caption: 
   focal_point: Smart
@@ -9,16 +9,12 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/Tanya-Shekhawat/JumpStart-Sales-Prediction
-- icon:
-  icon_pack:
-  name: 
-  url: 
 summary: Boosting Sales by Unleashing The Power of Machine Learning for Sales Analytics and Forecasting.
 tags:
   - Machine Learning
   - Python
   - Data Science
-title: From Data to Insights Building an AI-Powered Crime Analytics and Forecasting Tool for African Nations
+title: Sales Prophet An AI-Driven Sales Forecasting Tool
 url_code: ""
 url_pdf: ""
 url_slides: ""
