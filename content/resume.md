@@ -21,20 +21,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Science Intern
-          company: PWSkills
-          company_url: ''
-          company_logo: org-pw
-          location: 
-          date_start: '2023-08-01'
-          date_end: ''
-          description: |2-
-              Skills include:
-
-              * DeepLearning
-              * Computer Vision
-              * LLM
-              * Python
+#        - title: Data Science Intern
+#          company: PWSkills
+#          company_url: ''
+#          company_logo: org-pw
+#          location: 
+#          date_start: '2023-08-01'
+#          date_end: ''
+#          description: |2-
+#              Skills include:
+#
+#              * DeepLearning
+#              * Computer Vision
+#              * LLM
+#              * Python
         - title: Data Science Intern
           company: Hamoye
           company_url: ''
