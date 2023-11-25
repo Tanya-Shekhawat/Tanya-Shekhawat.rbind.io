@@ -55,3 +55,18 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 ---
+
+#        - title: Data Science Intern
+#          company: PWSkills
+#          company_url: ''
+#          company_logo: org-pw
+#          location: 
+#          date_start: '2023-08-01'
+#          date_end: ''
+#          description: |2-
+#              Skills include:
+ 
+#              * DeepLearning
+#              * Computer Vision
+#              * LLM
+#              * Python
