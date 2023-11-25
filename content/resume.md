@@ -21,6 +21,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
         - title: Website Management Intern
           company: Queer Education Initiative Foundation
           company_url: ''
@@ -35,6 +36,7 @@ sections:
               * Wix
               * Google Sheets
               * Google Docs
+
         - title: Data Science Intern
           company: Hamoye
           company_url: ''
