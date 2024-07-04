@@ -7,7 +7,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <div> <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="/static/files/Tanya_Shekhawat_CV.pdf" target="_blank" class="btn btn-success px-3 py-2" id= "cva">One Page CV</a> <a href="/static/files/Tanya_Shekhawat_Resume_Full.pdf" target="_blank" class="btn btn-warning px-3 py-2" id = "cvb" >Full CV</a> </div>
+      text: <div > <img src="/static/img/pineapple.jpg" alt="Hero Banner Image" class="background-img"> <a href="/static/files/Tanya_Shekhawat_CV.pdf" target="_blank" class="btn btn-success px-3 py-2" id= "cva">One Page CV</a> <a href="/static/files/Tanya_Shekhawat_Resume_Full.pdf" target="_blank" class="btn btn-warning px-3 py-2" id = "cvb" >Full CV</a> </div>
   - block: experience
     id: resume
     content:
