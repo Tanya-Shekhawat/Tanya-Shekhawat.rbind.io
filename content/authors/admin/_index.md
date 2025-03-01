@@ -33,5 +33,5 @@ superuser: true
 title: Tanya Shekhawat
 ---
 
-Hey there! 👋 I'm Tanya Shekhawat, a passionate and curious student currently embarking on a thrilling journey towards a B.Tech CSE Honours in Artificial Intelligence. With my pre-final year underway, I'm diving headfirst into the realm of data science, ready to unravel the mysteries hidden within vast datasets.
+Hey there! 👋 I'm Tanya Shekhawat, a passionate and curious student currently embarking on a thrilling journey towards a B.Tech CSE Honours in Artificial Intelligence. I'm diving headfirst into the realm of data science, ready to unravel the mysteries hidden within vast datasets.
 {style="text-align: justify;"}
